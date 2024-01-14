@@ -11,3 +11,6 @@ All these I got off amazon.  No instructions provided.  Your milage may vary.
 * uxcell 12mm x 331mm Hardened Rod Chrome Plated Linear Motion Shaft/Guide
 * 45# Steel Spur Pinion Gear 1M20T Outer Dia 22mm Bore 12mm x1Pcs (Bore: 12mm)
   
+### Pics
+![working](https://github.com/kangasp/slip_roller/assets/2477006/984fc2a2-54f8-4772-a2be-fc04c73920a1)
+![parts](https://github.com/kangasp/slip_roller/assets/2477006/48de04f7-74b8-4ac6-aabf-17551b2a4645)
